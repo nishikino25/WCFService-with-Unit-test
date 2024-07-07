@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\wcfservicedemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC35D413-49C1-4D17-8EDC-7B7EA8AAC911}|WcfServiceDemo.csproj|e:\\project\\wcfservicedemo\\insertdata.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EC35D413-49C1-4D17-8EDC-7B7EA8AAC911}|WcfServiceDemo.csproj|solutionrelative:insertdata.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC35D413-49C1-4D17-8EDC-7B7EA8AAC911}|WcfServiceDemo.csproj|e:\\project\\wcfservicedemo\\insertdata.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC35D413-49C1-4D17-8EDC-7B7EA8AAC911}|WcfServiceDemo.csproj|solutionrelative:insertdata.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC35D413-49C1-4D17-8EDC-7B7EA8AAC911}|WcfServiceDemo.csproj|e:\\project\\wcfservicedemo\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC35D413-49C1-4D17-8EDC-7B7EA8AAC911}|WcfServiceDemo.csproj|solutionrelative:iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483B9F14-3FC6-460E-9538-9E75ABA2CE2B}|..\\WcfServiceDemoTests\\WcfServiceDemoTests.csproj|e:\\project\\wcfservicedemotests\\service1tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC35D413-49C1-4D17-8EDC-7B7EA8AAC911}|WcfServiceDemo.csproj|e:\\project\\wcfservicedemo\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC35D413-49C1-4D17-8EDC-7B7EA8AAC911}|WcfServiceDemo.csproj|solutionrelative:service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC35D413-49C1-4D17-8EDC-7B7EA8AAC911}|WcfServiceDemo.csproj|e:\\project\\wcfservicedemo\\dbbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC35D413-49C1-4D17-8EDC-7B7EA8AAC911}|WcfServiceDemo.csproj|solutionrelative:dbbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsertData.aspx.cs",
+              "DocumentMoniker": "E:\\Project\\wcfservicedemo\\InsertData.aspx.cs",
+              "RelativeDocumentMoniker": "InsertData.aspx.cs",
+              "ToolTip": "E:\\Project\\wcfservicedemo\\InsertData.aspx.cs",
+              "RelativeToolTip": "InsertData.aspx.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswBsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T13:23:58.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsertData.aspx",
+              "DocumentMoniker": "E:\\Project\\wcfservicedemo\\InsertData.aspx",
+              "RelativeDocumentMoniker": "InsertData.aspx",
+              "ToolTip": "E:\\Project\\wcfservicedemo\\InsertData.aspx",
+              "RelativeToolTip": "InsertData.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-07T13:21:20.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Service1Tests.cs",
+              "DocumentMoniker": "E:\\Project\\WcfServiceDemoTests\\Service1Tests.cs",
+              "RelativeDocumentMoniker": "..\\WcfServiceDemoTests\\Service1Tests.cs",
+              "ToolTip": "E:\\Project\\WcfServiceDemoTests\\Service1Tests.cs",
+              "RelativeToolTip": "..\\WcfServiceDemoTests\\Service1Tests.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwDkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T19:09:16.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "E:\\Project\\wcfservicedemo\\IService1.cs",
+              "RelativeDocumentMoniker": "IService1.cs",
+              "ToolTip": "E:\\Project\\wcfservicedemo\\IService1.cs",
+              "RelativeToolTip": "IService1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwCYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T22:48:12.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "E:\\Project\\wcfservicedemo\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "Service1.svc.cs",
+              "ToolTip": "E:\\Project\\wcfservicedemo\\Service1.svc.cs",
+              "RelativeToolTip": "Service1.svc.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T19:10:52.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBBase.cs",
+              "DocumentMoniker": "E:\\Project\\wcfservicedemo\\DBBase.cs",
+              "RelativeDocumentMoniker": "DBBase.cs",
+              "ToolTip": "E:\\Project\\wcfservicedemo\\DBBase.cs",
+              "RelativeToolTip": "DBBase.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAEsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T19:08:38.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

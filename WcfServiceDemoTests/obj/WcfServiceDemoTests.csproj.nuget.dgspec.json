@@ -1,0 +1,106 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Project\\WcfServiceDemoTests\\WcfServiceDemoTests.csproj": {}
+  },
+  "projects": {
+    "E:\\Project\\WcfServiceDemoTests\\WcfServiceDemoTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Project\\WcfServiceDemoTests\\WcfServiceDemoTests.csproj",
+        "projectName": "WcfServiceDemoTests",
+        "projectPath": "E:\\Project\\WcfServiceDemoTests\\WcfServiceDemoTests.csproj",
+        "packagesPath": "C:\\Users\\ZHEN\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\WcfServiceDemoTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ZHEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Project\\wcfservicedemo\\WcfServiceDemo.csproj": {
+                "projectPath": "E:\\Project\\wcfservicedemo\\WcfServiceDemo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Project\\wcfservicedemo\\WcfServiceDemo.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Project\\wcfservicedemo\\WcfServiceDemo.csproj",
+        "projectName": "WcfServiceDemo",
+        "projectPath": "E:\\Project\\wcfservicedemo\\WcfServiceDemo.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}

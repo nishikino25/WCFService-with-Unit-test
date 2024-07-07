@@ -1,0 +1,16 @@
+E:\SelfLearning\wcfservicedemo\bin\WcfServiceDemo.dll.config
+E:\SelfLearning\wcfservicedemo\bin\WcfServiceDemo.dll
+E:\SelfLearning\wcfservicedemo\bin\WcfServiceDemo.pdb
+E:\SelfLearning\wcfservicedemo\obj\Debug\WcfServiceDemo.csproj.AssemblyReference.cache
+E:\SelfLearning\wcfservicedemo\obj\Debug\WcfServiceDemo.csproj.CoreCompileInputs.cache
+E:\SelfLearning\wcfservicedemo\obj\Debug\WcfServi.1A5F783C.Up2Date
+E:\SelfLearning\wcfservicedemo\obj\Debug\WcfServiceDemo.dll
+E:\SelfLearning\wcfservicedemo\obj\Debug\WcfServiceDemo.pdb
+E:\Project\wcfservicedemo\bin\WcfServiceDemo.dll.config
+E:\Project\wcfservicedemo\bin\WcfServiceDemo.dll
+E:\Project\wcfservicedemo\bin\WcfServiceDemo.pdb
+E:\Project\wcfservicedemo\obj\Debug\WcfServiceDemo.csproj.AssemblyReference.cache
+E:\Project\wcfservicedemo\obj\Debug\WcfServiceDemo.csproj.CoreCompileInputs.cache
+E:\Project\wcfservicedemo\obj\Debug\WcfServi.1A5F783C.Up2Date
+E:\Project\wcfservicedemo\obj\Debug\WcfServiceDemo.dll
+E:\Project\wcfservicedemo\obj\Debug\WcfServiceDemo.pdb

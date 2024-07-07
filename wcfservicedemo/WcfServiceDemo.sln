@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceDemo", "WcfServiceDemo.csproj", "{EC35D413-49C1-4D17-8EDC-7B7EA8AAC911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceDemoTests", "..\WcfServiceDemoTests\WcfServiceDemoTests.csproj", "{483B9F14-3FC6-460E-9538-9E75ABA2CE2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC35D413-49C1-4D17-8EDC-7B7EA8AAC911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC35D413-49C1-4D17-8EDC-7B7EA8AAC911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC35D413-49C1-4D17-8EDC-7B7EA8AAC911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC35D413-49C1-4D17-8EDC-7B7EA8AAC911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{483B9F14-3FC6-460E-9538-9E75ABA2CE2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483B9F14-3FC6-460E-9538-9E75ABA2CE2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483B9F14-3FC6-460E-9538-9E75ABA2CE2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483B9F14-3FC6-460E-9538-9E75ABA2CE2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00925A04-A5D2-46E9-A893-204E076AC04E}
+	EndGlobalSection
+EndGlobal
