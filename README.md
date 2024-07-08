@@ -1,7 +1,7 @@
 # WCFService-with-Unit-test
 
-- en [English](README.md)
-- zh_TW [繁体中文](readme/README.zh_TW.md)
+- en [English](https://github.com/nishikino25/WCFService-with-Unit-test/blob/main/README.md)
+- zh_TW [繁体中文](https://github.com/nishikino25/WCFService-with-Unit-test/blob/main/README.zh_TW.md)
 
 In this Repo, you will see two C# projects, wcfservicedemo is a basic web form service including main code and data table, and WcfServiceDemoTests is an MSTEST executor, which can contain units test for GetDate and InsertData functions.
 
