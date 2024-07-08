@@ -1,6 +1,6 @@
 # WCFService-with-Unit-test
 
-- en [English]([README.md](https://github.com/nishikino25/WCFService-with-Unit-test/blob/main/README.md))
+- en [English](https://github.com/nishikino25/WCFService-with-Unit-test/blob/main/README.md)
 - zh_TW [繁体中文](https://github.com/nishikino25/WCFService-with-Unit-test/blob/main/README.zh_TW.md)
 
 在此 Repo 中，您將看到兩個C#專案，wcfservicedemo 是一個基本的網頁表單服務包含主程式碼與資料表，而WcfServiceDemoTests是一個MSTEST執行器，可以裡面包含對GetDate 以及InsertData兩種函數的單元測試。
