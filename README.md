@@ -1,8 +1,9 @@
 # WCFService-with-Unit-test
 
-In this Repo, you will see two C# projects, wcfservicedemo is a basic web form service including main code and data table, and WcfServiceDemoTests is an MSTEST executor, which can contain units test for GetDate and InsertData functions.
+- en [English](README.md)
+- zh_TW [繁体中文](readme/README.zh_TW.md)
 
-在此 Repo 中，您將看到兩個C#專案，wcfservicedemo 是一個基本的網頁表單服務包含主程式碼與資料表，而WcfServiceDemoTests是一個MSTEST執行器，可以裡面包含對GetDate 以及InsertData兩種函數的單元測試。
+In this Repo, you will see two C# projects, wcfservicedemo is a basic web form service including main code and data table, and WcfServiceDemoTests is an MSTEST executor, which can contain units test for GetDate and InsertData functions.
 
 ![image](https://github.com/nishikino25/WCFService-with-Unit-test/assets/42590869/a974f188-c67f-4f55-ab55-5bf03a13bbb0)
 
@@ -23,4 +24,3 @@ Visual Studio 2022
 3. Click Run All to execute your tests and view test results in the Test Explorer window.
 
 ![image](https://github.com/nishikino25/WCFService-with-Unit-test/assets/42590869/cc6286fe-cc7c-4c65-8b99-dfe6dcf926a0)
-
